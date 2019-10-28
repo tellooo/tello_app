@@ -17,7 +17,7 @@
 6. 测试：用python代码看一看mid是不是不为-1，如果是1-20之间的某个数字就说明升级成功了。
 
    ```
-   python tello_state.py
+   python state.py
    ```
 
 ## 2.固件重刷
